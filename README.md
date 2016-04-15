@@ -1,6 +1,8 @@
 # Association-Rules-Implementation-using-UCI-Datasets
 Implementation of Association Rules using UCI Datasets
 <br>
+
+<br>
 Implement the Apriori algorithm by first determining frequent itemsets and then proceeding to identify association rules. Consider that the input to your program is a
 sparse matrix where the rows are transactions and columns are items. Each value in your matrix is a binary variable from {0, 1} that indicates presence of an item in the transaction.
 <br>
